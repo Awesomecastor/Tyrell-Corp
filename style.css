@@ -1,39 +1,46 @@
-body{
-    background-color: black;
+body {
+  background-color: black;
 }
-p{
-    color: white; font-size: 20px;
-    font-family: Helvetica;
+p {
+  color: white;
+  font-size: 20px;
+  font-family: Helvetica;
 }
-h1{
-    font-size: 50px;
-    color: lightGreen;
-    font-weight: bold;
-    font-family: Helvetica;
+h1 {
+  font-size: 45px;
+  color: lightGreen;
+  font-weight: bold;
+  font-family: Helvetica;
 }
-h2{
-    font-size: 40px;
-    color: lightGreen;
-    font-weight: bold;
-    font-family: Helvetica;
-    font-style: italic;
+h2 {
+  font-size: 40px;
+  color: lightGreen;
+  font-weight: bold;
+  font-family: Helvetica;
+  font-style: italic;
 }
-h3{
-    font-family: Helvetica;
-    font-size: 30px;
-    color: lightgreen;
+h3 {
+  font-family: Helvetica;
+  font-size: 30px;
+  color: lightgreen;
 }
-ul{
-    color: white; font-size: 20px;
-    font-family: Helvetica;
+ul {
+  color: white;
+  font-size: 20px;
+  font-family: Helvetica;
 }
-a{
-    color: lightblue;
+a {
+  color: lightblue;
 }
-.quote{
-    font-style: italic;
-    font-size: 30px;
+.quote {
+  font-style: italic;
+  font-size: 30px;
 }
-button{
-    font-size: 15px;
+button {
+  font-size: 15px;
+}
+.section {
+  border: solid 5px lightGreen;
+  border-radius: 30px;
+  text-align: center;
 }
