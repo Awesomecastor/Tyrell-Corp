@@ -53,3 +53,7 @@ margin-left:20px;
 ul{
   margin-left: 20px;
 }
+.grey
+{
+  filter: grayscale(100%) opacity(75%);
+}
