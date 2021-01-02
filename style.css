@@ -56,4 +56,5 @@ ul{
 .grey
 {
   filter: grayscale(100%) opacity(75%);
+  border-radius: 70px;
 }
