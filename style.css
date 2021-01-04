@@ -1,5 +1,8 @@
 body {
-  background-color: black;
+  background: linear-gradient(black, black, darkGreen);
+  /*height: 100%;
+  background-repeat: no-repeat; 
+  --> Comment étendre le background dans la section "contact" ? */
 }
 p {
   color: white;
